@@ -9,6 +9,8 @@ rankings, rachas, puntos, temporadas, insignias y panel de administración. Pens
 
 ## Capturas
 
+**Demo interactiva (datos ficticios):** [anderssont-var.github.io/AnderssonT-var.github/demos/radical/](https://anderssont-var.github.io/AnderssonT-var.github/demos/radical/)
+
 <p>
   <img src="docs/capturas/feed.jpg" alt="Inicio: historias, reto de la semana y rutina del día" width="23%">
   <img src="docs/capturas/retos.jpg" alt="Retos en curso y próximos" width="23%">
