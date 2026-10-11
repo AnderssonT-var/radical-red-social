@@ -6,6 +6,16 @@ rankings, rachas, puntos, temporadas, insignias y panel de administración. Pens
 **Stack:** Node.js 22+ · Express · SQLite (un solo archivo) · JavaScript vanilla (sin build) · Service Worker + manifest (instalable).
 
 ---
+
+## Capturas
+
+<p>
+  <img src="docs/capturas/feed.jpg" alt="Inicio: historias, reto de la semana y rutina del día" width="23%">
+  <img src="docs/capturas/retos.jpg" alt="Retos en curso y próximos" width="23%">
+  <img src="docs/capturas/ranking.jpg" alt="Ranking del reto semanal" width="23%">
+  <img src="docs/capturas/perfil.jpg" alt="Perfil con racha, puntos e insignias" width="23%">
+</p>
+
 ## 1. Probarla en tu computador
 ```bash
 npm install
